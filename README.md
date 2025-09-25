@@ -18,3 +18,5 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/chinu21123/jalsetu.git
+
+vercel deployment : https://vercel.com/chelse-s-projects/jalsetu/3P3d9UhMp59hL44rBNTJoNPdji8u
