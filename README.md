@@ -1,12 +1,20 @@
-# Rainwater App
+# Rainwater App 🌧️💧
 
-This project simulates a rainwater management system.
+## Overview
+**Rainwater App** is a project designed to help users track rainfall, estimate water collection, and promote sustainable rainwater harvesting practices. It provides a simple interface to simulate rainwater management and visualize collected data effectively.
 
 ## Features
-- Tracks rainfall
-- Estimates water collection
-- Provides visualization for rainwater harvesting
+- Track rainfall over time.
+- Estimate the volume of water collected.
+- Visual representation of rainwater harvesting data.
+- User-friendly interface for easy interaction.
 
 ## Technologies Used
-- HTML, CSS, JavaScript
-  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (if applicable):** Python / Flask / Node.js  
+- **Database (if applicable):** SQLite / MySQL / Firebase  
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chinu21123/jalsetu.git
